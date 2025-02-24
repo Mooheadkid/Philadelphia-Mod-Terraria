@@ -1,0 +1,6 @@
+Items: {
+	Lamppost: {
+	}
+}
+
+Projectiles.LamppostProjectile.DisplayName: Lamppost Projectile

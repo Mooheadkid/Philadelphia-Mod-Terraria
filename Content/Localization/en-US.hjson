@@ -1,0 +1,14 @@
+Mods: {
+	PhiladelphiaMod: {
+		Items: {
+			Lamppost: {
+				DisplayName: Torn Off Lamppost
+				Tooltip:
+					'''
+					Lights enemies on fire
+					'E.L.G.S.E.S: Eagles!'
+					'''
+			}
+		}
+	}
+}

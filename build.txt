@@ -1,0 +1,3 @@
+displayName = Philadelphia Mod
+author = Mooheadkid, BonelessDonut
+version = 0.1
