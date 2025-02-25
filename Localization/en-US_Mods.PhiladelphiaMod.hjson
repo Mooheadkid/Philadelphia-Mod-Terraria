@@ -1,6 +1,14 @@
 Items: {
 	Lamppost: {
 	}
+
+	SteelChainsaw: {
+		DisplayName: Steel Chainsaw
+		Tooltip: ""
+	}
 }
 
-Projectiles.LamppostProjectile.DisplayName: Lamppost Projectile
+Projectiles: {
+	LamppostProjectile.DisplayName: Lamppost Projectile
+	SteelChainsawProjectile.DisplayName: Steel Chainsaw Projectile
+}
