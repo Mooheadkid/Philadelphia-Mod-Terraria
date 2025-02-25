@@ -9,6 +9,11 @@ Mods: {
 					'E.L.G.S.E.S: Eagles!'
 					'''
 			}
+
+			SteelPickaxe: {
+				DisplayName: Steel Pickaxe
+				Tooltip: ""
+			}
 		}
 	}
 }
