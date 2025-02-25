@@ -1,20 +1,25 @@
 Items: {
 	Lamppost: {
-				DisplayName: Torn Off Lamppost
-				Tooltip:
-					'''
-					Lights enemies on fire
-					'E.L.G.S.E.S: Eagles!'
-					'''
+		DisplayName: Torn Off Lamppost
+		Tooltip:
+			'''
+			Lights enemies on fire
+			'E.L.G.S.E.S: Eagles!'
+			'''
 	}
 
 	SteelPickaxe: {
-				DisplayName: Steel Pickaxe
-				Tooltip: ""
+		DisplayName: Steel Pickaxe
+		Tooltip: ""
 	}
 
 	SteelChainsaw: {
 		DisplayName: Steel Chainsaw
+		Tooltip: ""
+	}
+
+	SteelHammer: {
+		DisplayName: Steel Hammer
 		Tooltip: ""
 	}
 }
